@@ -72,15 +72,19 @@ Probando la función:
 5. Modifique la colección de POSTMAN con NEWMAN de tal forma que pueda enviar 10 peticiones concurrentes. Verifique los resultados y presente un informe.
 
 Creamos en postman la colección y realizamos una petición.
+
 ![collection.png](images/collection.png)
 
 Exportamos la colección y guardamos el archivo generado en la carpeta `Postman`.
+
 ![export.png](images/export.png)
 
 Ejecutamos.
+
 ![ejecucion.png](images/ejecucion.png)
 
 Obtenemos los siguientes resultados.
+
 ![newman.png](images/newman.png)
 
 6. Cree una nueva Function que resuelva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
